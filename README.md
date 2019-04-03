@@ -1,4 +1,4 @@
-# Free-Lancer
+# BHero
 
 #Project Setup
 1. To set the project, first need to install it using
